@@ -1,0 +1,1 @@
+# PINN-to-solve-1D-Second-order-Singular-Pertubabtion-Problem-with-One-sided-Boundary-Layer
